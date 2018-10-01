@@ -8,6 +8,7 @@ We welcome contributions from designers! Take a look at [our open issues](https:
 You can also ask [@hallaathrad in Gitter](https://gitter.im/Hallaathrad) if you have any questions about contributing designs to freeCodeCamp's open source community.
 
 Please feel free to use these assets to promote freeCodeCamp or your city's campsite.
+It would be great help for us..
 
 Though these assets are Creative Commons licensed, we're trademarking the name "freeCodeCamp" itself to prevent scammers from trying to impersonate our organization. If you have questions about this, email us and we'll reply promptly: team at freeCodeCamp com.
 
